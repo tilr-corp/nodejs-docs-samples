@@ -1,4 +1,4 @@
 steps:
 - name: "gcr.io/cloud-builders/gcloud"
   args: ["app", "deploy"]
-  dir: 'nodejs-docs-sample/appenging/hello-world/flexible'
+  dir: '/nodejs-docs-sample/appenging/hello-world/flexible'
